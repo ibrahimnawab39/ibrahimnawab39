@@ -100,15 +100,6 @@ A structured API designed for modern web/mobile application integration.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimnawab39&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimnawab39&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
